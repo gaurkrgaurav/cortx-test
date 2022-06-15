@@ -1,13 +1,11 @@
 workloads_distribution:
   0Kb: 2
   1Kb: 24.79
-  10Kb: 18.84
+  10Kb: 18.87
   100Kb: 17.87
   1Mb: 18.2
   10Mb: 16.7
-  100Mb: 1.56
-  1Gb: 0.03
-  2Gb: 0.01
+  100Mb: 1.51
 sessions_per_node_vm: 20
 sessions_per_node_hw: 150
 
